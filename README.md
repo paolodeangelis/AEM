@@ -15,3 +15,16 @@
 ### 1. Hands-on Python 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/1-Hands-on_Python3.ipynb)
 
 Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
+
+<hr width="100%">
+<p align="right">
+    <em><strong>Acknowledgements:</strong></em>
+    &nbsp;
+    <a target="_blank" href="https://areeweb.polito.it/ricerca/small/">
+        <img style="height:30px" src="https://github.com/paolodeangelis/AEM/raw/main/img/logo.png" alt="SMALL site" >
+    </a>
+    &nbsp;
+    <a target="_blank" href="https://www.polito.it/">
+        <img style="height:30px" src="https://github.com/paolodeangelis/AEM/raw/main/img/polito_logo.png" alt="POLITO site" >
+    </a>
+</p>
