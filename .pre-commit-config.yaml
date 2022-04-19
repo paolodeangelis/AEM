@@ -45,4 +45,4 @@ repos:
         args: [--py36-plus]
       - id: nbqa-isort
       - id: nbqa-flake8
-        args: [--ignore=E402]
+        args: ["--ignore=E402,W503"]
