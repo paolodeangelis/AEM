@@ -16,6 +16,10 @@
 
 Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
 
+### 2. Hands-on 2 ML & SL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giotre/AEM/blob/main/2-Hands-on_ML_SL.ipynb)
+
+Esercitazione su Machine Learning e Sequential Learning in `jupyter`.
+
 <hr width="100%">
 <p align="right">
     <em><strong>Acknowledgements:</strong></em>
@@ -28,3 +32,6 @@ Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
         <img style="height:30px" src="https://github.com/paolodeangelis/AEM/raw/main/img/polito_logo.png" alt="POLITO site" >
     </a>
 </p>
+
+
+
