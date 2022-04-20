@@ -12,11 +12,11 @@
 
 ## Esercitazione Machine Learning (ML)
 
-### 1. Hands-on Python 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/1-Hands-on_Python3.ipynb)
+### [1. Hands-on Python 3](1-Hands-on_Python3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/1-Hands-on_Python3.ipynb)
 
 Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
 
-### 2. Hands-on 2 ML & SL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giotre/AEM/blob/main/2-Hands-on_ML_SL.ipynb)
+### [2. Hands-on 2 ML & SL](2-Hands-on_ML_SL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/2-Hands-on_ML_SL.ipynb)
 
 Esercitazione su Machine Learning e Sequential Learning in `jupyter`.
 
