@@ -32,6 +32,3 @@ Esercitazione su Machine Learning e Sequential Learning in `jupyter`.
         <img style="height:30px" src="https://github.com/paolodeangelis/AEM/raw/main/img/polito_logo.png" alt="POLITO site" >
     </a>
 </p>
-
-
-
