@@ -12,7 +12,7 @@
 
 ## Esercitazione Machine Learning (ML)
 
-### 1. Hands-on Python 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/1-Hands-on_Python3.ipynb) 
+### 1. Hands-on Python 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/1-Hands-on_Python3.ipynb)
 
 Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
 
