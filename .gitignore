@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 .vscode/settings.json
 a_file.txt
+fig*.png
