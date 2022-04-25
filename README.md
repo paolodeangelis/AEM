@@ -16,7 +16,8 @@
 
 Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
 
-### [2. Hands-on 2 ML & SL](2-Hands-on_ML_SL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/2-Hands-on_ML_SL.ipynb)
+### [2. Hands-on 2 ML & SL](2-Hands-on_ML_SL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github.com/giotre/AEM/blob/main/2-Hands_on_ML_SL.ipynb)
 
 Esercitazione su Machine Learning e Sequential Learning in `jupyter`.
 
