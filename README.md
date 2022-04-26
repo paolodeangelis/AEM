@@ -16,7 +16,7 @@
 
 Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
 
-### [2. Hands-on 2 ML & SL](2-Hands-on_ML_SL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/2-Hands-on_ML_SL.ipynb)
+### [2. Hands-on 2 ML & SL](2-Hands-on_ML_SL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/2-Hands_on_ML_SL.ipynb)
 
 Esercitazione su Machine Learning e Sequential Learning in `jupyter`.
 
@@ -25,10 +25,10 @@ Esercitazione su Machine Learning e Sequential Learning in `jupyter`.
     <em><strong>Acknowledgements:</strong></em>
     &nbsp;
     <a target="_blank" href="https://areeweb.polito.it/ricerca/small/">
-        <img style="height:30px" src="https://github.com/paolodeangelis/AEM/raw/main/img/logo.png" alt="SMALL site" >
+        <img style="height:40px" src="https://github.com/paolodeangelis/AEM/raw/main/img/logo.png" alt="SMALL site" >
     </a>
     &nbsp;
     <a target="_blank" href="https://www.polito.it/">
-        <img style="height:30px" src="https://github.com/paolodeangelis/AEM/raw/main/img/polito_logo.png" alt="POLITO site" >
+        <img style="height:40px" src="https://github.com/paolodeangelis/AEM/raw/main/img/polito_logo.png" alt="POLITO site" >
     </a>
 </p>
