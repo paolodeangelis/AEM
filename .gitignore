@@ -131,3 +131,4 @@ dmypy.json
 a_file.txt
 fig*.png
 /iris.csv*
+*.ai
