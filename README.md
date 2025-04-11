@@ -16,7 +16,7 @@
 
 Introduzione/ripasso di Python 3 e dei *notebooks* `jupyter`.
 
-### [2. Hands-on ML for MaterialsL](2_Hands_on_ML_for_Materials.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/2_Hands_on_ML_for_Materials.ipynb)
+### [2. Hands-on ML for Materials](2_Hands_on_ML_for_Materials.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paolodeangelis/AEM/blob/main/2_Hands_on_ML_for_Materials.ipynb)
 
 Esercitazione su Machine Learning per i Materiali in  `jupyter`.
 
